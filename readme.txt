@@ -5,7 +5,7 @@ FIRST Download
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
-3"banking"
+3"bankhub"
 
 4. Download the zip file/ download winrar
 
