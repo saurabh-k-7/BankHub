@@ -1,4 +1,3 @@
-Free Download Source Code "Online Banking System"
 
 FIRST Download
 
@@ -26,7 +25,3 @@ FIRST Download
 Admin
 user: admin
 pass: admin123
-
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
